@@ -1,2 +1,1 @@
-# geographiclib demo
- 
+Demo01: Here are the examples of the python api geographiclib.geodesic.Geodesic.WGS84.Direct taken from open source projects. Solve direct geodetic problem with geographiclib. By voting up you can indicate which examples are most useful and appropriate.
